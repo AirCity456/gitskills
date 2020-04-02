@@ -1,4 +1,4 @@
 # gitskills
 test the brench
-Creating a new branch is quick and simple.
+Creating a old branch is quick and simple.
 add new branch "dev".
